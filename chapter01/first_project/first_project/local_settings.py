@@ -1,1 +1,0 @@
-SECRET_KEY = 'i2z*=(uo+z*!agh8vc*x-zgse1&nb^#k(m6&a^6-_oqr)lqkj4'
