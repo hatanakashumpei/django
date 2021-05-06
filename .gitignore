@@ -1,4 +1,4 @@
 .python-version
 */*/__pycache__/*
-*/*/local_settings.py
+*/*/*/local_settings.py
 reference/*
